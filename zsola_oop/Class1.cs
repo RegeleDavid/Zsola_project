@@ -12,5 +12,18 @@ namespace zsola_oop
         {
             Console.WriteLine("szia zsola");
         }
+
+        public int poz()
+        {
+            Console.Write("a:");
+            int a = this.billenyuzetrol();
+            while (a%2!= 0 || a<0)
+            {
+                Console.Write("a:");
+
+                a = this.billenyuzetrol();
+            }
+            return a;
+        }
     }
 }

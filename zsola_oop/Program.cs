@@ -10,8 +10,9 @@ namespace zsola_oop
     {
         static void Main(string[] args)
         {
-            new Class1().kiir();
-            new Class2().kiir();
+          
+            new Class4(new Class3().rand(), new Class1().poz()).egyenlo();
+            
             Console.ReadKey();
 
         }

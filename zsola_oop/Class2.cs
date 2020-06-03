@@ -12,5 +12,10 @@ namespace zsola_oop
         {
             Console.WriteLine("Helo zsola");
         }
+
+        protected int billenyuzetrol()
+        {
+            return Int32.Parse(Console.ReadLine());
+        }
     }
 }
