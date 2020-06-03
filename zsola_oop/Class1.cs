@@ -6,13 +6,16 @@ using System.Threading.Tasks;
 
 namespace zsola_oop
 {
-    class Class1:Class2
+    class Class1:Class2, Interface1
     {
-        public void kiir()
+        public override void kiir()
         {
             Console.WriteLine("szia zsola");
         }
-
+        public void pl()
+        {
+            Console.WriteLine("asd");
+        }
         public int poz()
         {
             Console.Write("a:");
