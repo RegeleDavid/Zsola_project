@@ -8,9 +8,9 @@ namespace zsola_oop
 {
     class Class3
     {
-        public int rand()
+        public int rand(int min, int max)
         {
-            return new Random().Next(0, 10);
+            return new Random().Next(min, max);
         }
     }
 }
