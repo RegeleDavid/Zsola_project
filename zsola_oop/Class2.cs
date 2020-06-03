@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace zsola_oop
 {
-    class Program
+    class Class2
     {
-        static void Main(string[] args)
+        public void kiir()
         {
-            new Class1().kiir();
-            new Class2().kiir();
-            Console.ReadKey();
-
+            Console.WriteLine("Helo zsola");
         }
     }
 }
