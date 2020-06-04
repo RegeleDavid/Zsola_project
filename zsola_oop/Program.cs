@@ -10,9 +10,10 @@ namespace zsola_oop
     {
         static void Main(string[] args)
         {
-            //new Class3().pl();
+            Class3 class3 = new Class3();
+            class3.pl();
             //new Class4(new Class3().rand(0,10), new Class1().poz()).egyenlo();
-            Console.ReadKey();
+            
 
         }
     }

@@ -8,6 +8,6 @@ namespace zsola_oop
 {
     interface Interface1
     {
-        public void pl();
+       void pl();
     }
 }

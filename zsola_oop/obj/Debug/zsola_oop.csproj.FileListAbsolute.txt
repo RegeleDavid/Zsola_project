@@ -1,6 +1,7 @@
 D:\adatok\progatozas\c#\zsola_oop\zsola_oop\bin\Debug\zsola_oop.exe.config
 D:\adatok\progatozas\c#\zsola_oop\zsola_oop\bin\Debug\zsola_oop.exe
 D:\adatok\progatozas\c#\zsola_oop\zsola_oop\bin\Debug\zsola_oop.pdb
-D:\adatok\progatozas\c#\zsola_oop\zsola_oop\obj\Debug\zsola_oop.csprojResolveAssemblyReference.cache
 D:\adatok\progatozas\c#\zsola_oop\zsola_oop\obj\Debug\zsola_oop.exe
 D:\adatok\progatozas\c#\zsola_oop\zsola_oop\obj\Debug\zsola_oop.pdb
+D:\adatok\progatozas\c#\zsola_oop\zsola_oop\obj\Debug\zsola_oop.csprojAssemblyReference.cache
+D:\adatok\progatozas\c#\zsola_oop\zsola_oop\obj\Debug\zsola_oop.csproj.CoreCompileInputs.cache

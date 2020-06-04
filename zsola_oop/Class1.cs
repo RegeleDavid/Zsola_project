@@ -8,10 +8,12 @@ namespace zsola_oop
 {
     class Class1:Class2, Interface1
     {
+        
         public override void kiir()
         {
-            Console.WriteLine("szia zsola");
+            Console.WriteLine("asdsadas");
         }
+
         public void pl()
         {
             Console.WriteLine("asd");

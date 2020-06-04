@@ -8,7 +8,7 @@ namespace zsola_oop
 {
     class Class2
     {
-        public void kiir()
+        public virtual void kiir()
         {
             Console.WriteLine("Helo zsola");
         }
